@@ -3,8 +3,10 @@
 <br />
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x300?text=Carlos+Games+API" title="source: placeholder.com" alt="Carlos Games API Logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Logo" width="200" />
 </div>
+
+
 
 <br />
 
